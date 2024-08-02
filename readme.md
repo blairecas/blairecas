@@ -9,7 +9,7 @@
 **MS-0511 utils**<br />
 [Mouse, AY-s, Midi](https://github.com/blairecas/mousetest/)<br />
 [Covoxes](https://github.com/blairecas/spcplay/)<br />
-[Kosi4ka demos](https://github.com/blairecas/kosich/)<br />
+[Simple demos](https://github.com/blairecas/kosich/)<br />
 [Some tests](https://github.com/blairecas/uknc_tests/)<br />
 [Empty templates](https://github.com/blairecas/template/)<br />
 <br />
