@@ -1,7 +1,10 @@
 ### There is no knowledge. That is not power.
 **MS-0511 games**
-[Krakout](https://github.com/blairecas/krakout/)<br />
-[River Raid](https://github.com/blairecas/river/)<br />
+
+[Krakout](https://github.com/blairecas/krakout/)
+
+[River Raid](https://github.com/blairecas/river/)
+
 [Descent (unfinished)](https://github.com/blairecas/descent/)<br />
 [Bolder Dash](https://github.com/blairecas/bolder/)<br />
 [Column](https://github.com/blairecas/column/)<br />
