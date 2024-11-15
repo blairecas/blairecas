@@ -1,13 +1,13 @@
-### There is no knowledge. That is not power.<br />
-**MS-0511 games**<br />
-[Krakout](../krakout/)<br />
-[River Raid](../river/)<br />
+### There is no knowledge. That is not power.
+**MS-0511 games**
+[Krakout](https://github.com/blairecas/krakout/)<br />
+[River Raid](https://github.com/blairecas/river/)<br />
 [Descent (unfinished)](https://github.com/blairecas/descent/)<br />
 [Bolder Dash](https://github.com/blairecas/bolder/)<br />
 [Column](https://github.com/blairecas/column/)<br />
 <br />
 **MS-0511 various**<br />
-[Bad Apple](../badapple/)<br />
+[Bad Apple](https://github.com/blairecas/badapple/)<br />
 [Mouse, AY-s, Midi](https://github.com/blairecas/mousetest/)<br />
 [Covoxes](https://github.com/blairecas/spcplay/)<br />
 [Simple demos](https://github.com/blairecas/kosich/)<br />
