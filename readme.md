@@ -5,6 +5,7 @@
 [Descent (unfinished)](https://github.com/blairecas/descent/)<br />
 [Column](https://github.com/blairecas/column/)<br />
 [Bolder Dash](https://github.com/blairecas/bolder/)<br />
+[Goblin Castle](https://github.com/blairecas/goblin2/)<br />
 
 **MS-0511 various**<br />
 [Bad Apple](https://github.com/blairecas/badapple/)<br />
