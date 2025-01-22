@@ -13,6 +13,7 @@
 [Covoxes](https://github.com/blairecas/spcplay/)<br />
 [Simple demos](https://github.com/blairecas/kosich/)<br />
 [Some tests](https://github.com/blairecas/uknc_tests/)<br />
+[HDD utils](https://github.com/blairecas/wdutils/)<br />
 [Empty templates](https://github.com/blairecas/template/)<br />
 
 **Macro-11**<br />
