@@ -27,6 +27,7 @@
 [Goblin Castle](https://github.com/blairecas/goblin2_bk/)<br />
 [Saboteur 2 (BK0011M)](https://github.com/blairecas/sabot2_bk/)<br />
 [River Raid](https://github.com/blairecas/river_bk/)<br />
+[Baby Ultimate](https://github.com/blairecas/baby2_bk/)<br />
 
 **BK-0010/11 utils**<br />
 [Some tests](https://github.com/blairecas/bk_tests/)<br />
